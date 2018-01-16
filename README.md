@@ -1,2 +1,2 @@
 # majorana
-Esempio repository
+Esempio uso di GIT
